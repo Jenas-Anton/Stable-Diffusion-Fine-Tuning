@@ -2,14 +2,14 @@
 
 This repository contains code and resources for fine-tuning and utilizing machine learning models. The project focuses on training models using customized datasets, providing tools for model evaluation, and generating images.
 
-#Table of Contents
+# Table of Contents
 - [Introduction](#introduction)
-- [Installation](#Installation)
+- [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 
-#Introdocution 
+## Introduction 
 This project demonstrates how to set up and fine-tune a Stable Diffusion model using Hugging Face's `diffusers` and `transformers` libraries. The setup includes efficient memory usage techniques, optional GPU acceleration with xformers, and a user-friendly interface via `gradio`. This workflow enables you to train custom models and generate high-quality images leveraging JAX or PyTorch.This also works on google collab for free. 
 
 ## Installation
@@ -29,6 +29,7 @@ To set up the environment, install the necessary dependencies as outlined below:
    pip install <xformers precompiled package for your GPU>
    ```
 3. Optionally, if you encounter GPU compatibility issues, use the following for specific GPU types:
+   
 ```bash
 pip install -q https://github.com/TheLastBen/fast-stable-diffusion/raw/main/precompiled/<your GPU type>/xformers-0.0.13.dev0-py3-none-any.whl
 ```
