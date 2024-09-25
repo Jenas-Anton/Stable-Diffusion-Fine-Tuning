@@ -2,7 +2,8 @@
 
 Welcome to the **Stable Diffusion Fine-Tuning** repository! This project empowers you to fine-tune models using custom datasets and generate stunning images effortlessly. From installation to training, we've got you covered with easy-to-follow instructions and helpful tips. Ready to dive in? 🚀
 
-![image](https://github.com/user-attachments/assets/21cb8fcd-3444-4fee-b8d2-877211ac46fb)
+![Uploading image.png…]()
+
 
 
 ---
@@ -50,7 +51,7 @@ Let's get your environment ready! 🛠️ Follow these steps to install all nece
 
 
 ## 📚 Usage
-1. Training a Custom Dataset 🧑‍🏫 (with `dreambooth_1.ipynb`)
+### 1. Training a Custom Dataset 🧑‍🏫 (with `dreambooth_1.ipynb`)
 Follow these steps to fine-tune your model using DreamBooth in the dreambooth_1.ipynb notebook.
 
 ⚡ Quick Steps:
@@ -64,12 +65,12 @@ Follow these steps to fine-tune your model using DreamBooth in the dreambooth_1.
 
 Once everything is set, 🎉 you're ready to train! 🚀
 
-2. Generating Images 🖼️ (with `working_2.ipynb`)
+### 2. Generating Images 🖼️ (with `working_2.ipynb`)
 After fine-tuning your model, generate images using `the working_2`.ipynb notebook. 📸✨
 
 ---
 
-⚙️ Setup:
+## ⚙️ Setup:
 
 - Install necessary libraries for generating images.
 - Load the model you trained earlier and start generating images with text prompts. 💬🔮
