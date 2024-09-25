@@ -2,7 +2,9 @@
 
 This repository contains code and resources for fine-tuning and utilizing machine learning models. The project focuses on training models using customized datasets, providing tools for model evaluation, and generating images.
 
-![image](https://github.com/user-attachments/assets/df9103b6-ed05-473f-b848-6947330d3b16)
+![image](https://github.com/user-attachments/assets/21cb8fcd-3444-4fee-b8d2-877211ac46fb)
+
+
 
 
 # Table of Contents
