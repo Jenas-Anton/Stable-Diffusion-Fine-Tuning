@@ -2,7 +2,8 @@
 
 Welcome to the **Stable Diffusion Fine-Tuning** repository! This project empowers you to fine-tune models using custom datasets and generate stunning images effortlessly. From installation to training, we've got you covered with easy-to-follow instructions and helpful tips. Ready to dive in? 🚀
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/ba9de560-daeb-462e-b337-b1c014ca13a6)
+
 
 
 
